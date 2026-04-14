@@ -1,0 +1,14 @@
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\bin\Debug\net10.0\DivisorEquality.exe
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\bin\Debug\net10.0\DivisorEquality.deps.json
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\bin\Debug\net10.0\DivisorEquality.runtimeconfig.json
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\bin\Debug\net10.0\DivisorEquality.dll
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\bin\Debug\net10.0\DivisorEquality.pdb
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.AssemblyInfoInputs.cache
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.AssemblyInfo.cs
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.csproj.CoreCompileInputs.cache
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.dll
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\refint\DivisorEquality.dll
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.pdb
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\DivisorEquality.genruntimeconfig.cache
+C:\Users\deepti.dwivedi\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\Lab\divisor equality counter\src\DivisorEquality\obj\Debug\net10.0\ref\DivisorEquality.dll
