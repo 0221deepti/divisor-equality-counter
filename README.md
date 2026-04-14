@@ -1,1 +1,1 @@
-# divisor-equality-counter
+divisor-equality-counter
